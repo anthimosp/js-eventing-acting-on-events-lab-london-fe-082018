@@ -1,2 +1,2 @@
 var dodger = document.getElementById('dodger')
-moveDodger
+moveDodgerRight() = moveDodgerLeft()
