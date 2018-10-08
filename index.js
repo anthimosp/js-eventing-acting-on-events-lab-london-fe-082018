@@ -1,2 +1,4 @@
 var dodger = document.getElementById('dodger')
-dodger.style.bottom = '100px'
+document.addEventListener('keydown', function(e) {
+  console.log(e.which)
+})
